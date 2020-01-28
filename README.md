@@ -1,4 +1,4 @@
-# Aragon app list
+# Aragon Apps List
 Community curated list of Aragon Apps
 
 Feel free to open a PR to add an app to the list.
